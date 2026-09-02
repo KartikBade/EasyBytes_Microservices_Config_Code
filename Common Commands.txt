@@ -6,4 +6,4 @@ hookdeck listen 8071 Source --cli-key 0iubtcxar4zudkon4mozpzufu44kn10ouk9jy9kvwl
 
 Can be found on: https://console.hookdeck.com/ -> Products -> Console
 
-3. After running hookdeck command, a link will be generated. Set the generated link in GitHub webhooks.
+3. After running hookdeck command, a link will be generated. Set the generated link in GitHub webhooks. Make sure to append /monitor to the link.
